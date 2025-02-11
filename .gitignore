@@ -1,0 +1,16 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files created by TextEdit
+*~
+
+# Temporary files
+*.swp
+*~
+
+# Application specific files
